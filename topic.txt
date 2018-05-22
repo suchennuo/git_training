@@ -1,1 +1,5 @@
-topic 
+topic
+【topic1.0.1】【feature2-1】start.
+will make conflict with feature1.
+feature1-1: topic1.0.1 的 feature1 中的第一部分，开始；
+feature1-2: topic1.0.1 的 feature1 中的第二部分，开始；
